@@ -1,2 +1,3 @@
 # Linebot_Basic_Function
-加了一些基本功能進去
+本人我加了一些基本功能進去，
+想知道如何使用可以看Linebot基本互動功能.pptx檔案
